@@ -1,0 +1,34 @@
+
+ p {
+    text-align: center;
+  }
+
+
+header{
+  text-align: center;
+}
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+  }
+
+  strong {
+    color: purple;
+    font-size: large;
+  }
+
+  img {
+    width: 50vh;
+    border-radius: 50%;
+    
+  }
+  h6{
+    font-size: large;
+  }
+    
+  *{
+   color: black;
+  }
+
+  
